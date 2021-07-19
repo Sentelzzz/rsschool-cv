@@ -7,7 +7,7 @@
 ### **Contacts:**
 * tel: +375333331568
 * telegram: @Sentel
-* gmail: Vadimmialik@gmail.com
+* mail: Vadimmialik@gmail.com
 
 ### **Profile:**
 I want to become a Front-end Developer, I like learning new technologies and self-education. I learn very fast, because I am self-disciplined, proactive and organised. I am not afraid of challenges, eager to achieve results constantly developing my self as a professional.
