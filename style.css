@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1,
+h2 {
+    font-family: Calibri;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: coral;
+}
+
+span {
+    color: gray;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+code {
+    font-style: italic;
+}
