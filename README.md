@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sentelzzz.github.io/rsschool-cv/cv
